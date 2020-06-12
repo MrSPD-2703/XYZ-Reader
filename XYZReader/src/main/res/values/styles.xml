@@ -15,14 +15,22 @@
      limitations under the License.
 -->
 
-<resources>
 
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="fab_detail">
+        <item name="android:layout_gravity">bottom|end</item>
+        <item name="android:layout_marginEnd">@dimen/fab_margin</item>
+        <item name="android:layout_marginBottom">@dimen/fab_margin</item>
+        <item name="android:contentDescription">@string/action_share</item>
+        <item name="android:stateListAnimator" tools:ignore="NewApi">@anim/fab_state_list_anim
+        </item>
+    </style>
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
 
     </style>
 
     <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/transparent</item>
     </style>
 
 </resources>

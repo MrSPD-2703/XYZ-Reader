@@ -1,0 +1,22 @@
+
+=
+java:S1214""Move constants to a class or enum.(ô¯²Èùÿÿÿÿ
+t	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†Ûı¼øÿÿÿÿ
+P
+java:S2386"5Move "PROJECTION" to a class and lower its visibility(‡ÎÌÑùÿÿÿÿ
+v
+java:S3252"YUse static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "_ID".(ÃéÒ•8òóÆÊª.
+}
+java:S3252"[Use static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "TITLE".(İøÌƒÿÿÿÿÿ8òóÆÊª.
+†
+java:S3252"dUse static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "PUBLISHED_DATE".(‹“Òşÿÿÿÿ8òóÆÊª.
+y
+java:S3252"\Use static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "AUTHOR".(˜Šª8òóÆÊª.
+|
+java:S3252"_Use static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "THUMB_URL".(ƒ¾ÀÊ8òóÆÊª.
+|
+java:S3252"_Use static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "PHOTO_URL".(¯îÙ°8òóÆÊª.
+
+java:S3252 "bUse static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "ASPECT_RATIO".(£¬ù…8òóÆÊª.
+w
+java:S3252!"ZUse static access with "com.example.xyzreader.data.ItemsContract$ItemsColumns" for "BODY".(ä´ô½8òóÆÊª.

@@ -1,0 +1,12 @@
+
+`
+java:S3398j">Move this method into the anonymous class declared at line 96.(öš¤Îúÿÿÿÿ8þ®¯µª.
+I
+java:S10680",Remove this unused "mToolbar" private field.(êˆ‹©8þ®¯µª.
+w
+java:S1104Î"YMake thumbnailView a static final constant or non-public and provide accessors if needed.(‹¸âÊ8þ®¯µª.
+{
+java:S1104Ð"XMake subtitleView a static final constant or non-public and provide accessors if needed.(þå¼äÿÿÿÿÿ8þ®¯µª.
+z	java:S1168"YRename this field "START_OF_EPOCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È®ºûÿÿÿÿÿ8þ®¯µª.
+x
+java:S1104Ï"UMake titleView a static final constant or non-public and provide accessors if needed.(Ó¨½óûÿÿÿÿ8þ®¯µª.

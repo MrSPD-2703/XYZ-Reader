@@ -1,0 +1,15 @@
+
+h
+java:S1874¡"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(å‰Éõ8ûÊò©ª.
+U
+java:S1135"2Complete the task associated to this TODO comment.(ìçİÎúÿÿÿÿ8òÑ¡µª.
+\
+java:S1874A"?Remove this use of "setOnPageChangeListener"; it is deprecated.(ƒæÌ 8òÑ¡µª.
+g
+java:S2259O"EA "NullPointerException" could be thrown; "mCursor" is nullable here.(¸‘ä‰ûÿÿÿÿ8òÑ¡µª.
+U
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8òÑ¡µª.
+L
+java:S1066l"/Merge this if statement with the enclosing one.(€•çô8òÑ¡µª.
+^
+java:S1874¢"ARemove this use of "FragmentStatePagerAdapter"; it is deprecated.(‘í›\8ûÊò©ª.
